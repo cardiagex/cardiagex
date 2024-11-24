@@ -1,5 +1,5 @@
 ## Hi, I'm Noé Da Silva and I created this project as a blog cardiag.ex  👋
-
+The aim of the project is to inform and help in this blog on how to solve electromechanical problems.
 <!--
 **cardiagex/cardiagex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
