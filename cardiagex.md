@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Noé Da Silva and I created the blog cardiag.ex  👋
 
 <!--
 **cardiagex/cardiagex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
